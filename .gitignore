@@ -1,0 +1,36 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Xcode specific files
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Build generated files
+DerivedData/
+build/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/
+Carthage/Build/
+
+# fastlane
+fastlane/report.xml
+fastlane/screenshots
+
+# Temporary files
+*.swp
+*.lock
+
+# Objective-C/Swift specific
+*.hmap
+*.ipa
